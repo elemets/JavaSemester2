@@ -1,0 +1,3 @@
+#/bin/bash
+java MeanMinMaxMinusMean 12 12 12 
+java MeanMinMaxMinusMean 12 12 13 

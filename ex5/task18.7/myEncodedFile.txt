@@ -1,0 +1,4 @@
+begin 600 fileOfTextDecoded.txt
+92&5L;&\@;7D@;F%M92!I<PI-86YD96T*"@``
+`
+end

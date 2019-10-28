@@ -1,0 +1,19 @@
+A hash table is just a way of storing data
+so it can be retreived quickly.
+
+A hash code is a number which is unique
+to the item in the table. If something
+has the same hash code then it must
+be the same. This code is used to generate
+the array index of the item in the table
+we take the hash code and divide it by
+the size of the array then the remainder
+is the array index.
+
+To avoid the clashing of indexing we
+tend to use prime numbers for the size of
+an array
+
+Every object has a hashCode which should
+generate a distinct hash code for it.
+

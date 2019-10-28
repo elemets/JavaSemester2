@@ -1,0 +1,8 @@
+#/bin/bash
+java StreetOrder myStreetInput1.txt Output.txt
+java StreetOrder myStreetInput2.txt Output.txt
+java StreetOrder myStreetInput3.txt Output.txt
+java StreetOrder myStreetInput4.txt Output.txt
+java StreetOrder myStreetInput5.txt Output.txt
+java StreetOrder myStreetInput6.txt Output.txt
+

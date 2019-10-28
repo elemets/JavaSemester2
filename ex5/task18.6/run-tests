@@ -1,0 +1,6 @@
+#!/bin/bash
+set -v
+java DeleteField 2 616
+java DeleteField 2 616 myoutput.txt
+java DeleteField 2 616 my-input.txt
+java DeleteField 2

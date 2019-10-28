@@ -1,0 +1,4 @@
+#/bin/bash
+set -v
+javac -classpath .:opt/info/courses/COMP16212/ex2/Lotter.jar *.java
+java -classpath .:opt/info/courses/COMP16212/ex2/Lotter.jar TestMoodyGroup

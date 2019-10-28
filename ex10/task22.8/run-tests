@@ -1,0 +1,4 @@
+#/bin/bash
+java Anagrams bad
+java Anagrams meep
+java Anagrams many

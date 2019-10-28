@@ -1,0 +1,2 @@
+#/bin/bash
+java ReverseLines myInput.txt myOutput.txt
